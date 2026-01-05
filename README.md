@@ -108,7 +108,7 @@ These errors reflect **semantic limitations of bag-of-words models**, not pipeli
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - pandas, NumPy
 - scikit-learn
@@ -118,5 +118,5 @@ These errors reflect **semantic limitations of bag-of-words models**, not pipeli
 ---
 
 ## Status
-✔ Project complete and reproducible
+Project complete and reproducible
 
