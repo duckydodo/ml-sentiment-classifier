@@ -3,7 +3,7 @@
 ## Project Overview
 This project builds an end-to-end **sentiment analysis system** to classify IMDb movie reviews as **positive or negative** using traditional NLP techniques and machine learning models.
 
-The focus is not just on achieving good accuracy, but on building a **clean, explainable, and interview-ready ML pipeline**.
+The focus is not just on achieving good accuracy, but on building a **clean and explainable ML pipeline**.
 
 ---
 
