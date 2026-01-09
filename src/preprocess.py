@@ -1,3 +1,17 @@
+import nltk
+nltk.download("stopwords", quiet=True)
+nltk.download("wordnet", quiet=True)
+
+import re
+import string
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+
+STOP_WORDS = set(stopwords.words("english"))
+LEMMATIZER = WordNetLemmatizer()
+
+def clean_text(text):
+    ...
 import re
 import string
 from nltk.corpus import stopwords
